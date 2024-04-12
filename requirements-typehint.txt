@@ -129,7 +129,7 @@ distlib==0.3.8
     # via virtualenv
 dnslib==0.9.24
     # via localstack-core (pyproject.toml)
-dnspython==2.5.0
+dnspython==2.6.1
     # via
     #   localstack-core (pyproject.toml)
     #   pymongo
